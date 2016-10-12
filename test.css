@@ -58,6 +58,11 @@ body {
   padding: 30px;
 }
 
+img.center {
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
 
 /*
  * Header
